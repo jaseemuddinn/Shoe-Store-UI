@@ -1,6 +1,6 @@
 # Shoe Store
 
-Welcome to the Shoe Store! This is a simple and stylish e-commerce website template created using React and Tailwind CSS. Explore the world of footwear with our Hero section, discover popular products, read testimonials, and enjoy the convenience of our user-friendly design.
+Welcome to the Shoe Store! This is a simple and stylish e-commerce website template created using React+Vite and Tailwind CSS. Explore the world of footwear with our Hero section, discover popular products, read testimonials, and enjoy the convenience of our user-friendly design.
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@ Welcome to the Shoe Store! This is a simple and stylish e-commerce website templ
 Run the development server:
 
 ```bash
-npm start
+npm run dev
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser to explore the project.
