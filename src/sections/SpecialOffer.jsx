@@ -6,7 +6,7 @@ function SpecialOffer() {
     return (
         <section className="flex justify-between items-center max-xl:flex-col-reverse gap-10 max-container">
             <div className="flex-1">
-                <img src={offer} alt="Shoe Promotion" width={770} height={680} className="object-contain w-full" />
+                <img src={offer} alt="Shoe Promotion" width={770} height={680} className=" rounded-lg object-contain w-full" />
             </div>
             <div className="flex flex-1 flex-col">
                 <h2 className="text-4xl font-palanquin font-bold">
